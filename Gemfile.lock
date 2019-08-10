@@ -177,9 +177,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootsnap
+  bootsnap (~> 1.4.4)
   capybara
   jbuilder (~> 2.0)
+  msgpack (~> 1.0)
   pry
   rails (= 5.0.7.1)
   rails-controller-testing
